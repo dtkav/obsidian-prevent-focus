@@ -1,0 +1,9 @@
+{
+	"id": "obsidian-prevent-focus",
+	"name": "Prevent Focus",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Toggle button to prevent Obsidian from stealing window focus",
+	"author": "Daniel Grossmann-Kavanagh",
+	"isDesktopOnly": true
+}
